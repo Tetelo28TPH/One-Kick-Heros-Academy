@@ -1,0 +1,4 @@
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy(1).csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe.config
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.pdb

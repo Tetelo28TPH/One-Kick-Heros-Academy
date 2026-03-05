@@ -1,0 +1,160 @@
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe.config
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.pdb
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.AssemblyReference.cache
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Properties.Resources.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.GenerateResource.cache
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.CoreCompileInputs.cache
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.pdb
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe.config
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.FrmLockScreen.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmAddNewHero.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmDashboard.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmSummaryReport.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmUpdateHeroes.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmHeroView.resources
+C:\Users\601779\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe.config
+C:\Users\601779\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe
+C:\Users\601779\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.pdb
+C:\Users\601779\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.AssemblyReference.cache
+C:\Users\601779\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe.config
+C:\Users\601779\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.FrmLockScreen.resources
+C:\Users\601779\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmAddNewHero.resources
+C:\Users\601779\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmDashboard.resources
+C:\Users\601779\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmUpdateHeroes.resources
+C:\Users\601779\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmSummaryReport.resources
+C:\Users\601779\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmHeroView.resources
+C:\Users\601779\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Properties.Resources.resources
+C:\Users\601779\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.GenerateResource.cache
+C:\Users\601779\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.CoreCompileInputs.cache
+C:\Users\601779\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe
+C:\Users\601779\OneDrive - belgiumcampus.ac.za\CodeBase\PRG282\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.pdb
+D:\BC 2nd Year\PRG 282\Project\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe.config
+D:\BC 2nd Year\PRG 282\Project\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe
+D:\BC 2nd Year\PRG 282\Project\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.pdb
+D:\BC 2nd Year\PRG 282\Project\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.AssemblyReference.cache
+D:\BC 2nd Year\PRG 282\Project\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe.config
+D:\BC 2nd Year\PRG 282\Project\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.FrmLockScreen.resources
+D:\BC 2nd Year\PRG 282\Project\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmAddNewHero.resources
+D:\BC 2nd Year\PRG 282\Project\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmDashboard.resources
+D:\BC 2nd Year\PRG 282\Project\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmUpdateHeroes.resources
+D:\BC 2nd Year\PRG 282\Project\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmSummaryReport.resources
+D:\BC 2nd Year\PRG 282\Project\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmHeroView.resources
+D:\BC 2nd Year\PRG 282\Project\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Properties.Resources.resources
+D:\BC 2nd Year\PRG 282\Project\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.GenerateResource.cache
+D:\BC 2nd Year\PRG 282\Project\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.CoreCompileInputs.cache
+D:\BC 2nd Year\PRG 282\Project\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe
+D:\BC 2nd Year\PRG 282\Project\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.pdb
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.AssemblyReference.cache
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe.config
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.pdb
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe.config
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.pdb
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.FrmLockScreen.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmAddNewHero.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmDashboard.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmUpdateHeroes.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmSummaryReport.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmHeroView.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Properties.Resources.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.GenerateResource.cache
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.CoreCompileInputs.cache
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.AssemblyReference.cache
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe.config
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.FrmLockScreen.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmAddNewHero.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmDashboard.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmUpdateHeroes.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmSummaryReport.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmHeroView.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Properties.Resources.resources
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.GenerateResource.cache
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.CoreCompileInputs.cache
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.pdb
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe.config
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe
+C:\Users\lee\OneDrive - belgiumcampus.ac.za\CodeBase\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.pdb
+D:\BC 2nd Year\PRG 282\Project\Sent by Laura\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.AssemblyReference.cache
+D:\BC 2nd Year\PRG 282\Project\Sent by Laura\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe.config
+D:\BC 2nd Year\PRG 282\Project\Sent by Laura\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.FrmLockScreen.resources
+D:\BC 2nd Year\PRG 282\Project\Sent by Laura\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmAddNewHero.resources
+D:\BC 2nd Year\PRG 282\Project\Sent by Laura\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmDashboard.resources
+D:\BC 2nd Year\PRG 282\Project\Sent by Laura\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmUpdateHeroes.resources
+D:\BC 2nd Year\PRG 282\Project\Sent by Laura\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmSummaryReport.resources
+D:\BC 2nd Year\PRG 282\Project\Sent by Laura\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmHeroView.resources
+D:\BC 2nd Year\PRG 282\Project\Sent by Laura\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Properties.Resources.resources
+D:\BC 2nd Year\PRG 282\Project\Sent by Laura\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.GenerateResource.cache
+D:\BC 2nd Year\PRG 282\Project\Sent by Laura\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.CoreCompileInputs.cache
+D:\BC 2nd Year\PRG 282\Project\Sent by Laura\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe
+D:\BC 2nd Year\PRG 282\Project\Sent by Laura\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.pdb
+D:\BC 2nd Year\PRG 282\Project\Sent by Laura\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe.config
+D:\BC 2nd Year\PRG 282\Project\Sent by Laura\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe
+D:\BC 2nd Year\PRG 282\Project\Sent by Laura\ProjectFolder_Tetelo (2)\ProjectFolder_Tetelo\ProjectFolder_Tetelo\PRG-282-PROJECT-Not-Final-Code-Here\project\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.pdb
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe.config
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.pdb
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe.config
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.pdb
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.FrmLockScreen.resources
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmAddNewHero.resources
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmDashboard.resources
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmUpdateHeroes.resources
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmSummaryReport.resources
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmHeroView.resources
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Belgium stuff year 2\PRG282\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.CoreCompileInputs.cache
+D:\BC 2nd Year\PRG 282\Project\Final_Final\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe.config
+D:\BC 2nd Year\PRG 282\Project\Final_Final\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe
+D:\BC 2nd Year\PRG 282\Project\Final_Final\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.pdb
+D:\BC 2nd Year\PRG 282\Project\Final_Final\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.AssemblyReference.cache
+D:\BC 2nd Year\PRG 282\Project\Final_Final\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe.config
+D:\BC 2nd Year\PRG 282\Project\Final_Final\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.FrmLockScreen.resources
+D:\BC 2nd Year\PRG 282\Project\Final_Final\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmAddNewHero.resources
+D:\BC 2nd Year\PRG 282\Project\Final_Final\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmDashboard.resources
+D:\BC 2nd Year\PRG 282\Project\Final_Final\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmUpdateHeroes.resources
+D:\BC 2nd Year\PRG 282\Project\Final_Final\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmSummaryReport.resources
+D:\BC 2nd Year\PRG 282\Project\Final_Final\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmHeroView.resources
+D:\BC 2nd Year\PRG 282\Project\Final_Final\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Properties.Resources.resources
+D:\BC 2nd Year\PRG 282\Project\Final_Final\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.GenerateResource.cache
+D:\BC 2nd Year\PRG 282\Project\Final_Final\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.CoreCompileInputs.cache
+D:\BC 2nd Year\PRG 282\Project\Final_Final\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe
+D:\BC 2nd Year\PRG 282\Project\Final_Final\PROJECT_Final\PROJECT_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.pdb
+D:\BC 2nd Year\PRG 282\Project\Final_Final\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe.config
+D:\BC 2nd Year\PRG 282\Project\Final_Final\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe
+D:\BC 2nd Year\PRG 282\Project\Final_Final\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.pdb
+D:\BC 2nd Year\PRG 282\Project\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.AssemblyReference.cache
+D:\BC 2nd Year\PRG 282\Project\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe.config
+D:\BC 2nd Year\PRG 282\Project\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.FrmLockScreen.resources
+D:\BC 2nd Year\PRG 282\Project\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmAddNewHero.resources
+D:\BC 2nd Year\PRG 282\Project\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmDashboard.resources
+D:\BC 2nd Year\PRG 282\Project\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmUpdateHeroes.resources
+D:\BC 2nd Year\PRG 282\Project\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmSummaryReport.resources
+D:\BC 2nd Year\PRG 282\Project\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmHeroView.resources
+D:\BC 2nd Year\PRG 282\Project\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Properties.Resources.resources
+D:\BC 2nd Year\PRG 282\Project\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.GenerateResource.cache
+D:\BC 2nd Year\PRG 282\Project\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.CoreCompileInputs.cache
+D:\BC 2nd Year\PRG 282\Project\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe
+D:\BC 2nd Year\PRG 282\Project\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.pdb
+C:\Users\lee\Downloads\Final_Final\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.AssemblyReference.cache
+C:\Users\lee\Downloads\Final_Final\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe.config
+C:\Users\lee\Downloads\Final_Final\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.exe
+C:\Users\lee\Downloads\Final_Final\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.pdb
+C:\Users\lee\Downloads\Final_Final\Final_Final\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe.config
+C:\Users\lee\Downloads\Final_Final\Final_Final\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.exe
+C:\Users\lee\Downloads\Final_Final\Final_Final\One_Kick_Heroes_Academy\bin\Debug\One_Kick_Heroes_Academy.pdb
+C:\Users\lee\Downloads\Final_Final\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.FrmLockScreen.resources
+C:\Users\lee\Downloads\Final_Final\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmAddNewHero.resources
+C:\Users\lee\Downloads\Final_Final\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmDashboard.resources
+C:\Users\lee\Downloads\Final_Final\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmUpdateHeroes.resources
+C:\Users\lee\Downloads\Final_Final\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmSummaryReport.resources
+C:\Users\lee\Downloads\Final_Final\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Forms.frmHeroView.resources
+C:\Users\lee\Downloads\Final_Final\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.Properties.Resources.resources
+C:\Users\lee\Downloads\Final_Final\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.GenerateResource.cache
+C:\Users\lee\Downloads\Final_Final\Final_Final\One_Kick_Heroes_Academy\obj\Debug\One_Kick_Heroes_Academy.csproj.CoreCompileInputs.cache
